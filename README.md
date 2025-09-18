@@ -9,8 +9,8 @@
 
 ### **Clone and Install**
 ```bash
-git clone <repo-url>
-cd <repo-directory>
+git clone https://github.com/jvascosemblano/ocr-challenge.git
+cd ocr-challenge
 npm install
 ```
 
